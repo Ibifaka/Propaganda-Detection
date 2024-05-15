@@ -1,0 +1,1 @@
+This project aims to build two machine learning classification models to classify words or sentences into propaganda and non-propaganda. The project further analyses the proganda techniques used in different sentences.
